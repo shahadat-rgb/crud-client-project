@@ -1,0 +1,11 @@
+nav {
+  text-align: center;
+}
+
+.nav-Link {
+  text-decoration: none;
+  padding: 15px;
+  font-weight: bold;
+  font-size: large;
+  color: black;
+}
